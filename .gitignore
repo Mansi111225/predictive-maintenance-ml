@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+models/*.joblib
+reports/*.png
+reports/*.txt
+data/equipment_sensor_data.csv
+.streamlit/secrets.toml
